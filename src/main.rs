@@ -33,7 +33,11 @@ fn main() {
     // y2022::d8::run();
     // println!();
 
-    println!("Day nine");
-    y2022::d9::run();
+    // println!("Day nine");
+    // y2022::d9::run();
+    // println!();
+
+    println!("Day ten");
+    y2022::d10::run();
     println!();
 }
